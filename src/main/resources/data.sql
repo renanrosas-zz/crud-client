@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Lucia', '0123456789', '3000.0', '1964-03-17T00:00:00Z', '4');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jose Sergio', '0123456789', '2000.0', '1965-05-08T00:00:00Z', '6');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Lucia', '0123456789', '3000.0', '1964-03-17T00:00:00Z', '4');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jose Sergio', '0123456789', '2000.0', '1965-05-08T00:00:00Z', '6');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Lucia', '0123456789', '3000.0', '1964-03-17T00:00:00Z', '4');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jose Sergio', '0123456789', '2000.0', '1965-05-08T00:00:00Z', '6');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Lucia', '0123456789', '3000.0', '1964-03-17T00:00:00Z', '4');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jose Sergio', '0123456789', '2000.0', '1965-05-08T00:00:00Z', '6');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Lucia', '0123456789', '3000.0', '1964-03-17T00:00:00Z', '4');
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jose Sergio', '0123456789', '2000.0', '1965-05-08T00:00:00Z', '6');
